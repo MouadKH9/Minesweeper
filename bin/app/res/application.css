@@ -1,0 +1,93 @@
+Label{
+	-fx-text-fill:white;
+}
+
+#grp{
+	-fx-padding: 70px;
+}
+#panel{
+	-fx-border-color: black;
+}
+#board{
+	-fx-border-color: black;
+}
+#block{
+	-fx-border-color: black;
+}
+#msg{
+	-fx-font-size: 26px;
+}
+
+#btn{
+	-fx-background-color: #7bacea;
+}
+#button{
+	-fx-background-color:transparent;
+}
+
+#button:hover{
+	-fx-background-color:#dae7f3;
+}
+#pauseMenu{
+	-fx-background-color: rgba(44, 62, 80,1);
+}
+#pbtn{
+	-fx-border-color: white;
+	-fx-border-radius: 10px;
+	-fx-background-color: null;
+	-fx-text-fill: white;
+	-fx-font-size:20px;
+}
+#pbtn:hover{
+	-fx-background-color: white;
+	-fx-text-fill:black;
+}
+#combo{
+	-fx-background-color: white;
+	-fx-text-fill:black;
+	-fx-font-size: 16px;
+	-fx-border-color: white;
+	-fx-border-radius: 10px;
+	-fx-border-width: 2px;
+}
+
+#wbtn{
+	-fx-border-radius: 10 10;
+	-fx-background-color: null;
+	-fx-text-fill: white;
+	-fx-font-size:20px;
+	-fx-background-color:#2ecc71;
+}
+#wbtn:hover{
+	-fx-background-color: white;
+	-fx-text-fill:#2ecc71;
+}
+RadioButton{
+	-fx-text-fill: white;
+}
+#pan Label{
+	-fx-text-fill: white;
+	-fx-font-size: 20px;
+}
+#lab{
+	-fx-font-size: 40px;
+	-fx-text-fill: white;
+}
+#dis{
+	-fx-background-color:transparent;
+	-fx-text-fill:white;
+	-fx-font-size:20px;
+}
+#dis:hover{
+	-fx-background-color: white;
+	-fx-text-fill: #27ae60;
+	-fx-border-radius: 10 10 10 10;
+  	-fx-background-radius: 10 10 10 10;
+}
+
+
+
+
+
+
+
